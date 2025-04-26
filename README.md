@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm PAVAN RATHOD
 
-<!--
-**pavanr45/pavanr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 An aspiring **Full Stack Developer** passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+🔭 I’m currently an **Intern at Kiran Academy**  
+🌱 I’m currently learning **Java**, **MySQL**, and **Spring Boot**  
+📫 How to reach me: [pavan48755@gmail.com](mailto:pavan48755@gmail.com)  
+⚡ Hobby: I love playing and watching **Cricket** 🏏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/pavan-rathod-385b25227)
+- [GitHub](https://github.com/pavanr45)
+
+---
+
+## 🛠️ Languages and Tools:
+- `Java` `Hibernate` `Spring Boot` `MySQL`
+- `Python` `Git` `HTML5` `CSS3`
+- `JavaScript` `Bootstrap` `Angular`
+
+---
