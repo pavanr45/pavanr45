@@ -59,10 +59,33 @@
 ---
 
 # 📊 **GitHub Analytics**
+
 <p align="center">
-  <img src="https://github-readme-stats-mu-three-53.vercel.app/api?username=pavanr45&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavanr45&theme=radical" height="160"/>
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-mu-three-53.vercel.app/api?username=pavanr45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    height="160"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=pavanr45&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" 
+    height="160"
+  />
+
 </p>
+
+<p align="center">
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-mu-three-53.vercel.app/api/top-langs/?username=pavanr45&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    height="160"
+  />
+
+</p>
+
 
 
 
