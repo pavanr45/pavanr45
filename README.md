@@ -78,7 +78,11 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanrathod&label=Profile%20Views&color=blue&style=flat"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=pavanrathod&label=Profile%20Views&color=00c6ff&style=flat" 
+    alt="Profile views counter"
+  />
+  <br><sub>✨ Thanks for visiting! Star ⭐ this repo if you found it helpful.</sub>
 </p>
+
