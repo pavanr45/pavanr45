@@ -6,20 +6,22 @@
 <!-- ✨ Glow Effect Name -->
 <h2 align="center">
   <span style="text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff;">
-    Aspiring Full Stack Developer 🚀
+    Full Stack Developer 🚀
   </span>
 </h2>
 
 <!-- 📝 Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer+in+Making;Intern+at+Kiran+Academy;Learning+New+Technologies+Everyday">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer+In+Making;Intern+at+PitonSystem+Pvt+Ltd;Learning+New+Technologies+Everyday">
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 **Intern at Kiran Academy**  
-- 🌱 Learning **Java, Spring Boot, MySQL**  
+- 💼 Currently **Intern at PitonSystem Pvt Ltd** as **Software Developer**  
+  → Working on **PHP, CakePHP, MySQL, HTML, CSS, JavaScript**  
+- 🔭 Completed **6-month Full Stack Training at Kiran Academy**  
+- 🌱 Learned **Java, Spring Boot, MySQL, React.js, REST APIs**, exploring **Cloud**  
 - 📨 Email: **pavan48755@gmail.com**  
 - ⚡ Hobby: I love **Cricket 🏏**
 
@@ -28,10 +30,10 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/pavanrathod">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
   </a>
   <a href="https://github.com/pavanrathod">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+    <img src="https://skillicons.dev/icons?i=github" width="55"/>
   </a>
 </p>
 
@@ -39,63 +41,57 @@
 
 # 🛠️ Tech Stack  
 
+### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" width="50"/>
-  <img src="https://skillicons.dev/icons?i=python,git,html,css,js,bootstrap,angular" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=php,cakephp" width="55"/>
+</p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,angular" width="55"/>
+</p>
+
+### **Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
 </p>
 
 ---
 
 # 🚀 My Projects  
-### 🔹 **Employee Management System (CRUD App)**  
-A full-stack app using **Angular + Spring Boot + MySQL**  
-🔗 *Add link here once deployed*
 
-### 🔹 **Personal Movie Recommender (Django)**  
-Recommends movies using machine learning  
-🔗 *Add link*
-
-### 🔹 **Crop Pest Identification (Deep Learning)**  
-CNN-based plant pest classifier  
-🔗 *Add link*
+### 🔹 **AmazeCare – Healthcare System**  
+A full-stack healthcare platform enabling smooth interaction between **Patients**, **Doctors**, and **Admins**.  
+**Tech:** Java, Spring Boot, Angular, MySQL  
 
 ---
 
-<!-- GitHub stats - Dark / Light using <picture> -->
-<p align="center">
-  <!-- GitHub Readme Stats (dark) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=dark" />
-    <img alt="Pavan's GitHub stats" 
-         src="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=default" 
-         height="160"/>
-  </picture>
-
-  <!-- Streak Stats (dark/light) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=dark" />
-    <img alt="Pavan's GitHub streak" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=default" 
-         height="160"/>
-  </picture>
-</p>
-
-<!-- Top Languages (use separate picture if you want a theme-specific look) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrathod&layout=compact&theme=dark" />
-    <img alt="Top languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrathod&layout=compact&theme=default" 
-         height="140"/>
-  </picture>
-</p>
+### 🔹 **Agro Connect**  
+Connecting **Farmers** directly with **Customers** for better pricing & fresh produce delivery.
 
 ---
 
+### 🔹 **Smart Attendance System**  
+Developed a student attendance solution with **Java, Spring Boot, Hibernate, Angular, MySQL**.
 
+---
+
+### 🔹 **Employee Management System (Spring Boot)**  
+Full CRUD operations with responsive UI and robust backend.
+
+---
+
+### 🔹 **Sentiment Analysis Project**  
+Analyzed product reviews using machine learning & NLP techniques.
+
+---
+
+### 🔹 **Snake Game (Java Swing)**  
+Classic Snake Game featuring movement, scoring, collision detection.
+
+---
 
 # ✨ Fun With AI  
 <p align="center">
