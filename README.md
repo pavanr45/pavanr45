@@ -61,34 +61,43 @@ CNN-based plant pest classifier
 
 ---
 
-# 📊 GitHub Analytics (Dark + Light Mode Auto)
-
+<!-- GitHub stats - Dark / Light using <picture> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=radical#gh-dark-mode-only" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=default#gh-light-mode-only" height="160"/>
+  <!-- GitHub Readme Stats (dark) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=dark" />
+    <img alt="Pavan's GitHub stats" 
+         src="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=default" 
+         height="160"/>
+  </picture>
+
+  <!-- Streak Stats (dark/light) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=dark" />
+    <img alt="Pavan's GitHub streak" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=default" 
+         height="160"/>
+  </picture>
 </p>
 
+<!-- Top Languages (use separate picture if you want a theme-specific look) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=radical#gh-dark-mode-only" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=default#gh-light-mode-only" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrathod&layout=compact&theme=dark" />
+    <img alt="Top languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrathod&layout=compact&theme=default" 
+         height="140"/>
+  </picture>
 </p>
 
 ---
 
-# 🐍 Snake Animation (Your Contributions)
 
-<p align="center">
-  <img src="https://github.com/pavanrathod/pavanrathod/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
-> **Note:**  
-To enable the snake animation, create a file:  
-**`.github/workflows/snake.yml`**  
-I can generate that file for you—just say *“Generate snake.yml”*.
-
----
-
-# ✨ Fun GIF  
+# ✨ Fun With AI  
 <p align="center">
   <img src="https://github.com/pavanr45/Pavan/blob/main/fungif1.gif?raw=true" width="300"/>
 </p>
