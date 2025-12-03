@@ -76,14 +76,15 @@
 ---
 
 # 🚀 **Projects**
-| Project | Tech | Description |
-|--------|------|-------------|
-| **AmazeCare – Healthcare System** | Java, Spring Boot, Angular | Healthcare platform |
-| **Agro Connect** | Java, Spring Boot | Farmers Marketplace |
-| **Smart Attendance System** | Spring Boot, MySQL | Attendance tracker |
-| **Employee Management System** | Spring Boot | CRUD System |
-| **Sentiment Analysis** | Python | NLP Review Analyzer |
-| **Snake Game** | Java Swing | Classic Retro Game |
+| Project | Badges | Description |
+|--------|--------|-------------|
+| **AmazeCare – Healthcare System** | ![](https://img.shields.io/badge/Java-SpringBoot-blue) ![](https://img.shields.io/badge/Angular-Typescript-red) | End-to-end healthcare platform |
+| **Agro Connect** | ![](https://img.shields.io/badge/Java-Backend-green) | Farmers marketplace platform |
+| **Smart Attendance System** | ![](https://img.shields.io/badge/SpringBoot-MySQL-yellow) | Student attendance tracking |
+| **Employee Management System** | ![](https://img.shields.io/badge/CRUD-SpringBoot-orange) | Full CRUD Application |
+| **Sentiment Analysis** | ![](https://img.shields.io/badge/Python-ML-lightblue) | NLP-based product review analyzer |
+| **Snake Game** | ![](https://img.shields.io/badge/Java-Swing-purple) | Classic retro snake game |
+
 
 ---
 
