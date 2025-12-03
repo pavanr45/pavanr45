@@ -19,7 +19,7 @@
 
 # 👨‍💻 **About Me**
 <p align="center">
-  <img src="https://github.com/pavanr45/Pavan/blob/main/fungif1.gif?raw=true" width="160" style="border-radius:15px;">
+  <img src="https://github.com/pavanr45/Pavan/blob/main/fungif1.gif?raw=true" width="250" style="border-radius:15px;">
 </p>
 
 - 💼 Intern at **PitonSystem Pvt Ltd**  
