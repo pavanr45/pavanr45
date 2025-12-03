@@ -61,9 +61,10 @@
 # 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanrathod&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanrathod&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavanr45&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanr45&theme=radical" height="160"/>
 </p>
+
 
 ---
 
