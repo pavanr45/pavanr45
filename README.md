@@ -73,7 +73,7 @@
 # 🚀 **Projects**
 | Project | Badges | Description |
 |--------|--------|-------------|
-| **AmazeCare – Healthcare System** | ![](https://img.shields.io/badge/Java-SpringBoot-blue) ![](https://img.shields.io/badge/Angular-Typescript-red) | End-to-end healthcare platform |
+| **AmazeCare – Healthcare System** | ![](https://img.shields.io/badge/Java-SpringBoot-blue) ![](https://img.shields.io/badge/React-Typescript-red) | End-to-end healthcare platform |
 | **Agro Connect** | ![](https://img.shields.io/badge/Java-Backend-green) | Farmers marketplace platform |
 | **Smart Attendance System** | ![](https://img.shields.io/badge/SpringBoot-MySQL-yellow) | Student attendance tracking |
 | **Employee Management System** | ![](https://img.shields.io/badge/CRUD-SpringBoot-orange) | Full CRUD Application |
