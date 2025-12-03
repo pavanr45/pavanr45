@@ -60,8 +60,8 @@
 
 # 📊 **GitHub Analytics**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pavanr45/github-stats-transparent/output/generated/overview.svg" height="160"/>
-  <img src="https://raw.githubusercontent.com/pavanr45/github-stats-transparent/output/generated/languages.svg" height="160"/>
+  <img src="https://github-readme-stats-mu-three-53.vercel.app/api?username=pavanr45&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavanr45&theme=radical" height="160"/>
 </p>
 
 
