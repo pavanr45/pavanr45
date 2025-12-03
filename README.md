@@ -90,7 +90,7 @@ I can generate that file for you—just say *“Generate snake.yml”*.
 
 # ✨ Fun GIF  
 <p align="center">
-  <img src="https://miro.medium.com/1*06QKP2Spe8Ab_iVsCf14IA.gif" width="300"/>
+  <img src="https://github.com/pavanr45/Pavan/blob/main/fungif1.gif?raw=true" width="300"/>
 </p>
 
 ---
