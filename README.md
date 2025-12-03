@@ -18,17 +18,17 @@
 ---
 
 ## 👨‍💻 About Me  
-- 💼 Currently **Intern at PitonSystem Pvt Ltd** as **Software Developer**  
-  → Working on **PHP, CakePHP, MySQL, HTML, CSS, JavaScript**  
-- 🔭 Completed **6-month Full Stack Training at Kiran Academy**  
-- 🌱 Learned **Java, Spring Boot, MySQL, React.js, REST APIs**, exploring **Cloud**  
-- 📨 Email: **pavan48755@gmail.com**  
-- ⚡ Hobby: I love **Cricket 🏏**
+- 💼 Intern at **PitonSystem Pvt Ltd** as a **Software Developer**  
+  → Working with **PHP, CakePHP, MySQL, HTML, CSS, JavaScript**  
+- 🎓 Completed **Full Stack Training (6 months)** at **Kiran Academy**  
+- 🌱 Skilled in **Java, Spring Boot, MySQL, React.js, REST APIs**, exploring **Cloud Technologies**  
+- 📧 Reach me at: **pavan48755@gmail.com**  
+- 🏏 Cricket enthusiast and tech explorer  
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
+## 🌐 Connect with Me  
+<p align="center">
   <a href="https://www.linkedin.com/in/pavanrathod">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
   </a>
@@ -39,61 +39,40 @@
 
 ---
 
-# 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-### **Backend**
+### 🔧 Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" width="55"/>
   <img src="https://skillicons.dev/icons?i=php,cakephp" width="55"/>
 </p>
 
-### **Frontend**
+### 🎨 Frontend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,angular" width="55"/>
 </p>
 
-### **Tools & Others**
+### 🧰 Tools & Others  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" width="55"/>
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,python" width="55"/>
 </p>
 
 ---
 
-# 🚀 My Projects  
+## 🚀 Projects Showcase  
 
-### 🔹 **AmazeCare – Healthcare System**  
-A full-stack healthcare platform enabling smooth interaction between **Patients**, **Doctors**, and **Admins**.  
-**Tech:** Java, Spring Boot, Angular, MySQL  
-
----
-
-### 🔹 **Agro Connect**  
-Connecting **Farmers** directly with **Customers** for better pricing & fresh produce delivery.
-
----
-
-### 🔹 **Smart Attendance System**  
-Developed a student attendance solution with **Java, Spring Boot, Hibernate, Angular, MySQL**.
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **AmazeCare – Healthcare System** | Platform for Patients, Doctors, and Admins | Java, Spring Boot, Angular, MySQL |
+| **Agro Connect** | Connects Farmers with Customers | Java, Spring Boot |
+| **Smart Attendance System** | Student attendance tracking | Java, Spring Boot, Hibernate, Angular, MySQL |
+| **Employee Management System** | Full CRUD with responsive UI | Spring Boot |
+| **Sentiment Analysis** | NLP-based review analyzer | Python, ML |
+| **Snake Game** | Classic arcade game | Java Swing |
 
 ---
 
-### 🔹 **Employee Management System (Spring Boot)**  
-Full CRUD operations with responsive UI and robust backend.
-
----
-
-### 🔹 **Sentiment Analysis Project**  
-Analyzed product reviews using machine learning & NLP techniques.
-
----
-
-### 🔹 **Snake Game (Java Swing)**  
-Classic Snake Game featuring movement, scoring, collision detection.
-
----
-
-# ✨ Fun With AI  
+## ✨ Fun With AI  
 <p align="center">
   <img src="https://github.com/pavanr45/Pavan/blob/main/fungif1.gif?raw=true" width="300"/>
 </p>
